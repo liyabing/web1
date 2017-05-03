@@ -1,0 +1,36 @@
+.first {
+	font-size: 14px;
+}
+.first a:hover{
+	color:#b9f605;
+	text-decoration: none;
+}
+.second li{
+	list-style-type: disc;
+}
+ul.third{
+	background-image: url(images/menulist.gif);
+	height:200px;
+	line-height: 40px;
+	background-repeat: repeat-y;
+
+}
+.a{
+	background-image: url(images/line.gif);
+	height:40px;
+}
+.b{
+	background-image: url(images/menutitle.gif);
+	width:200px;
+	height:30px;
+	font-weight: bold;
+}
+.c{
+	background-image: url(images/line.gif);
+	font-weight: normal;
+}
+.d{
+	background-image: url(images/butbg.gif);
+	background-repeat:repeat-x;
+	background-size: 100px 30px;
+}

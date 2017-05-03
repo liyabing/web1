@@ -1,0 +1,22 @@
+.first{
+	font-family: '微软雅黑';
+	font-size: 16px;
+	font-weight: bold;
+	color:#65a7d0;
+}
+.second li{
+	list-style-type: disc;
+}
+.third{
+	background-image: url(images/line.gif);
+	height:40px;
+}
+.a{
+	background-image: url(images/line.gif);
+}
+.b{
+	background-image: url(images/pic_foot_bg.gif);
+	width:200px;
+	height:30px;
+	align:center;
+}
