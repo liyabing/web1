@@ -1,0 +1,142 @@
+*{
+	font-size: 13px;
+	margin: 0px;
+	color: #686868;
+	line-height: 1.5em;
+	text-indent: 2em;
+}
+#banner{
+	width: 1350px;
+	height: 300px;
+	background-color: #333333;
+}
+#banner img{
+	width: 800px;
+	height: 300px;
+	margin: 0px 0px 5px 250px;
+}
+.one{
+	background-color: #333333;
+	width: 1350px;
+	height: 30px;
+	margin-top: 1px;
+}
+.one ul{
+	padding: 6px 0px 0px 190px;
+	float: left;
+}
+.one ul li a{
+	color: white;
+}
+.one ul li{
+	list-style-type: none;
+	display: inline;
+	padding-left: 20px;
+}
+.one a:link{
+	text-decoration: none;
+}
+.one a:hover{
+	color: #FF8C00; 
+}
+#two{
+	color: #FFD700;
+}
+form{
+	float: left;
+	padding-top: 5px;
+	padding-left: 160px;
+}
+.three{
+	width: 35px;
+}
+.szj{
+	width: 990px;
+	height: 220px;
+	margin: 20px 0px 0px 210px;
+}
+.szj img{
+	float: left;
+	width: 320px;
+	height: 220px;
+	border: 1px solid #686868;
+}
+.szj p{
+	background-image: url(images/n.png);
+	float: left;
+	width: 620px;
+	height: 220px;
+	margin-left: 20px;
+	padding-top: 2px;
+}
+p b a:link{
+	color: red;
+	text-decoration: none;
+}
+.shq{
+	width: 990px;
+	height: 240px;
+	margin: 30px 0px 0px 210px;
+}
+.shq p{
+	background-image: url(images/n.png);
+	float: left;
+	width: 760px;
+	height: 220px;
+	padding-top: 3px;
+}
+.shq img{
+	float: left;
+	width: 180px;
+	height:230px;
+	margin: 0px 0px 0px 20px;
+	border: 1px solid #686868;
+}
+.four{
+	background-image: url(images/n.png);
+	width: 990px;
+	height: 180px;
+	margin: 10px 0px 0px 190px;
+}
+.four ul li img{
+	width: 200px;
+	height: 150px;
+	margin: 10px;
+}
+.four ul li{
+	display: inline;
+}
+#footer{
+	background-color: #333333;
+	height: 120px;
+	width: 1350px;
+	margin: 2px 0px 0px 0px;
+}
+.five{
+	margin: 15px 0px 0px 350px;
+	font-weight: bold;
+}
+.five a:link{
+	color: white;
+	text-decoration: none;
+}
+.six{
+	margin-left: 350px;
+	color: white;
+}
+.seven{
+	margin-left: 430px;
+	margin-top: 9px;
+	color: white;
+}
+.eight{
+	margin-left: 470px;
+	margin-top: 15px;
+	color: white;
+}
+.five li{
+	display: inline;
+}
+#content{
+		background-color: #E0E0E0;
+}

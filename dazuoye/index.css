@@ -1,0 +1,148 @@
+*{
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+}
+#banner{
+	width: 1350px;
+	height: 300px;
+	background-color: #333333;
+}
+#banner img{
+	width: 800px;
+	height: 300px;
+	margin: 0px 0px 5px 250px;
+}
+.one{
+	background-color: #333333;
+	width: 1350px;
+	height: 30px;
+	margin-top: 1px;
+}
+.one ul{
+	padding: 6px 0px 0px 190px;
+	float: left;
+}
+.one ul li a{
+	color: white;
+}
+.one ul li{
+	list-style-type: none;
+	display: inline;
+	padding-left: 20px;
+}
+.one a:link{
+	text-decoration: none;
+}
+.one a:hover{
+	color: #FF8C00; 
+}
+#two{
+	color: #FFD700;
+}
+form{
+	float: left;
+	padding-top: 5px;
+	padding-left: 150px;
+}
+.three{
+	width: 35px;
+}
+#footer{
+	background-color: #333333;
+	height: 120px;
+	width: 1350px;
+	margin: 2px 0px 0px 0px;
+}
+.five{
+	margin: 15px 0px 0px 350px;
+	font-weight: bold;
+}
+.five a{
+	color: white;
+	text-decoration: none;
+}
+.six{
+	margin-left: 350px;
+	color: white;
+}
+.seven{
+	margin-left: 430px;
+	margin-top: 9px;
+	color: white;
+}
+.eight{
+	margin-left: 470px;
+	margin-top: 15px;
+	color: white;
+}
+.five li{
+	display: inline;
+}
+#content{
+	background-color: #BEBEBE;
+	width: 1350px;
+	height: 880px;
+	margin-top: 5px;
+}
+.nine{
+	float: left;
+	width: 250px;
+	height: 390px;
+	border: 1px solid black;
+	margin: 20px 0px 0px 220px;
+}
+.ten{
+	float: left;
+	width: 250px;
+	height: 390px;
+	border: 1px solid black;
+	margin: 20px 0px 0px 50px;
+}
+.eleven{
+	float: left;
+	width: 250px;
+	height: 390px;
+	border: 1px solid black;
+	margin: 20px 0px 0px 50px;
+}
+#content_top img{
+	width: 250px;
+	height: 290px;
+	border: 1px solid #686868;
+}
+#content_top p{
+	color: #808040;
+	line-height: 1.5em;
+	text-indent: 2em;
+}
+#content_top p a{
+	color: red;
+	text-decoration: none;
+	font-weight: bold;
+}
+#content_buttom img{
+	width: 130px;
+	height: 190px;
+	margin: 8px;
+}
+#content_buttom{
+	float: left;
+	width: 300px;
+	height: 425px;
+	background-color: #5B5B5B;
+	margin: 20px 0px 0px 190px;
+	padding-top: 5px;
+}
+.fifthteen p{
+	line-height: 1.5em;
+	color: black;
+}
+.fifthteen{
+	background-image: url(images/timg.jpg);
+	float: left;
+	width: 670px;
+	height: 400px;
+	margin: 30px 0px 0px 30px;
+	opacity: 0.4;
+}
